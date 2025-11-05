@@ -6,7 +6,7 @@ This space is where I experiment, analyze, visualize, and narrate insights from 
 Each project is a blend of curiosity, code, and creativity — transforming raw datasets into meaningful narratives.  
 
 ---
-
+# My Medium (Blog) Website - https://medium.com/@mdsahilislam57
 ## 🧠 What You'll Find Here  
 
 🔹 **Exploratory Data Analysis (EDA)** — uncovering patterns, trends, and hidden insights.  
@@ -17,4 +17,6 @@ Each project is a blend of curiosity, code, and creativity — transforming raw 
 🔹 **End-to-End Pipelines** — from data cleaning to model deployment and interpretation.  
 
 ---
-
+# Here are the blog list - 
+Car Sales Analysis - 
+Swiggy Data EDA Analysis - https://medium.com/@mdsahilislam57/what-my-swiggy-data-taught-me-about-indias-food-obsession-ddd5f24c63ad
