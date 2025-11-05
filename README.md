@@ -18,5 +18,5 @@ Each project is a blend of curiosity, code, and creativity — transforming raw 
 
 ---
 # Here are the blog list - 
-Car Sales Analysis - 
+Car Sales Analysis - https://medium.com/@mdsahilislam57/what-50-000-used-cars-taught-me-about-value-wear-and-buyer-behavior-6ad47a88f154
 Swiggy Data EDA Analysis - https://medium.com/@mdsahilislam57/what-my-swiggy-data-taught-me-about-indias-food-obsession-ddd5f24c63ad
